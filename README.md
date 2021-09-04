@@ -1,6 +1,6 @@
 # An analysis of Kickstarter Campaigns
 Performing Analysis on Kickstarter data to uncover trends
----
+------
 
 Outcomes Based on Launch date
 
