@@ -27,7 +27,7 @@ Theater Kickstarters launched in May and June are more likely to be successful t
 Kickstarters with the goal of $45,000 or more are more likely to fail at meeting their goal. The Kickstarters that had the greatest likelihood to reach their goal were $4,999 or less.
 ### Limitations
 In the data set, there were no theater Kickstarters canceled in October between 2009-2017. It is likely that data is missing due to an error. The likelihood is there was at least one canceled play in October from 2009-2017, so perhaps the sample size wasn’t large enough to accurately convey theater Kickstarters. Other limitations were due to the currency of each Kickstarter corresponding with their country of origin. The currency wasn’t converted into one currency. The goals will likely change with the conversion to one currency, limiting the assumptions made about the funding goal's effects on a Kickstarter's outcome.
-### Reccomendations
+### Recomendations
 To convey the pivot table data a 2D or 3D bar graph could be used to compare the categories side by side for each month. A bar graph would help compare the outcomes for different funding goal ranges in each category side by side.
 ## Resources
 [Kickstarter](https://www.kickstarter.com/film?ref=section-homepage-nav-click-film)
